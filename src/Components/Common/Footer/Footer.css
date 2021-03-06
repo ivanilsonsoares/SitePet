@@ -1,0 +1,58 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+.menu{
+    background: #0B3C4C;
+    width: 100%;
+    height: 70px;
+    border-top: 1px solid #333;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu .logo{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.menu .logo .space{
+    padding: 2px;
+}
+
+.menu .logo .space .pet{
+    width: 100px;
+    padding: 6%;
+    
+}
+
+.menu .logo .space .ufc{
+    width: 75px;
+    padding: 6%;
+}
+
+.menu .copyright{
+    color: white;
+    display: flex;
+    
+}
+.menu .copyright h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    padding: 1px;
+}
+
+.menu .Net-Work-social{
+    color: white;
+    padding: 1px;
+}
+
+.menu .Net-Work-social .fa{
+    padding: 5px; 
+}
+
+.menu .Net-Work-social .fa:hover{
+    color: slateblue;
+}
