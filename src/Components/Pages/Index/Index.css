@@ -1,3 +1,5 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
 .Banner{  
     width: 100%;
 	height: calc(100vh - 100px);
@@ -10,3 +12,58 @@
     color:yellow;
     margin-top: 0%;
 }
+
+.support{
+    width: 100%;
+	height: calc(100vh - 300px);
+	background: url(https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1504&q=80);
+	background-size: cover;
+    background-position: center;
+    
+}
+
+.support .logos{
+    display: flex;
+    justify-content: space-around;
+    padding: 75px;
+    
+    
+}
+
+.support .logos .pet{
+    width: 30%;
+}
+
+.enter-contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1199C8;
+    width: 100%;
+    height: 200px;
+}
+
+.enter-contact .contact{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.enter-contact .contact h1{
+    color: #ffffff;
+    font-size: x-large;
+    padding: 20px;
+
+}
+
+.enter-contact button{
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:#0B3C4C ;
+    color: white;
+}
+
+

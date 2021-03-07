@@ -20,6 +20,7 @@
 
 .menu .logo .space{
     padding: 2px;
+    cursor: pointer;
 }
 
 .menu .logo .space .pet{
@@ -36,6 +37,7 @@
 .menu .copyright{
     color: white;
     display: flex;
+    cursor: pointer;
     
 }
 .menu .copyright h1{
@@ -47,10 +49,13 @@
 .menu .Net-Work-social{
     color: white;
     padding: 1px;
+    
 }
 
 .menu .Net-Work-social .fa{
     padding: 5px; 
+    cursor: pointer;
+    
 }
 
 .menu .Net-Work-social .fa:hover{
