@@ -61,3 +61,20 @@
 .menu .Net-Work-social .fa:hover{
     color: slateblue;
 }
+
+@media screen and (max-width: 820px){
+    .menu{
+        display: block;
+        height: 200px;
+    }
+
+    .menu .logo, .copyright{
+        justify-content: center;
+        padding: 15px;
+    }
+
+    .menu .Net-Work-social{
+        text-align: center;
+        padding: 10px;
+    }
+}
