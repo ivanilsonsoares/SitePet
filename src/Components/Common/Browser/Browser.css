@@ -7,8 +7,7 @@
 }
 
 body{
-	font-family: 'Montserrat', sans-serif;
-    
+	font-family: 'Montserrat', sans-serif;   
 }
 
 .hamburguer {
@@ -80,23 +79,22 @@ header {
 
 header .logo {
 	color: #fff;
-	
 	text-decoration: none;
-	
 	font-size: 2rem;
 	font-weight: 600;
 	text-transform: uppercase;
 	letter-spacing: 2px;
+	width: 10%;
+	padding: 5px;
 }
 header.sticky {
   padding: 5px 40px;
-  
-  background-color: #fff;
+  background-color: #09a8dd;
 }
 
 header.sticky .logo,
 header.sticky ul li h1 {
-  color: #000;
+  color: #fff;
 }
 header.sticky .hamburguer:before,
 header.sticky .hamburguer:after {

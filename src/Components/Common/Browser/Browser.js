@@ -1,8 +1,11 @@
+import Pet from '../../../Images/pet-si.png'
+
 import './Browser.css';
+
 export function Browser() {
     return (
         <header>
-            <h1 className="logo">logo</h1>
+            <img src={Pet} alt="pet" className="logo"></img>
             <input id="check" type="checkbox"></input>
             <label for="check">
                 <div class="hamburguer"></div>
