@@ -1,5 +1,5 @@
 import Pet from '../../../Images/pet-si.png'
-
+//import { NavLink } from 'react-router-dom';
 import './Browser.css';
 
 export function Browser() {
@@ -11,12 +11,12 @@ export function Browser() {
                 <div class="hamburguer"></div>
             </label>
             <ul>
-                <li><h1>Inicio</h1></li>
-                <li><h1 >Equipe</h1></li>
-                <li><h1 >Projetos</h1></li>
-                <li><h1>Blog</h1></li>
-                <li><h1>Contato</h1></li>
-                <li><h1>Sobre</h1></li>
+                <li><a href="/">Inicio</a></li>
+                <li><a href="/">Equipe</a></li>
+                <li><a href="/">Projetos</a></li>
+                <li><a href="/">Blog</a></li>
+                <li><a href="/">Contato</a></li>
+                <li><a href="/sobre">Sobre</a></li>
             </ul>
         </header>
     )
