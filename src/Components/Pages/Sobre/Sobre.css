@@ -1,0 +1,70 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.Banner-Sobre{  
+    width: 100%;
+	height: calc(100vh - 100px);
+	background: url(https://images.unsplash.com/photo-1545454675-60abfab2a58a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80);
+	background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+.Banner-Sobre .info{
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+
+.Banner-Sobre .info h1{
+    color: yellow;
+    font-size: xxx-large;
+    padding: 5px;
+    
+}
+
+.Banner-Sobre .info p{
+    color: white;
+    padding: 5px;
+    font-size: large; 
+}
+
+.Content{
+    background: #E7EEF0;
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    border-radius: 5px;
+    color:#127899;
+}
+
+.Content h1{
+    padding: 15px;
+}
+
+.Content h2{
+    margin-bottom: 1%;
+}
+
+
+@media screen and (max-width: 820px) {
+    .Banner-Sobre{
+        width: 100%;
+        height: calc(100vh - 50px);
+    }
+
+    .Banner-Sobre .info h1{
+        font-size: x-large;
+    }
+
+    .Banner-Sobre .info p{
+        font-size: small;
+    }
+}
