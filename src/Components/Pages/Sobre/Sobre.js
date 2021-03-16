@@ -11,13 +11,20 @@ export function Sobre(){
                     <p>Saiba um pouco mais sobre nós</p>
                 </div>
             </div>
-            <h1>sdsds</h1>
-            <h1>sdsds</h1>
-            <h1>sdsds</h1>
-            <h1>sdsds</h1>
-            <h1>sdsds</h1>
-            <h1>sdsds</h1>
-            <h1>sdsds</h1>
+            <div className="Content">
+                <h1>Programas de Educação Tutoria - Sistemas de Informação</h1>
+                <h2>Como foi criado o PET?</h2>
+                <p>O Programa de Educação Tutorial (PET) foi criado para apoiar
+                    atividades acadêmicas que integram ensino, pesquisa e extensão.
+                    Formado por grupos tutoriais de aprendizagem, o PET propicia aos
+                    alunos participantes, sob a orientação de um tutor, a realização
+                    de atividades extracurriculares que complementem a formação acadêmica
+                    do estudante e atendam às necessidades do próprio curso de graduação.
+                    O estudante e o professor tutor recebem apoio financeiro de acordo com
+                    a Política Nacional de Iniciação Científica.
+                </p>
+
+            </div>
 
             <Footer></Footer>
         </div>

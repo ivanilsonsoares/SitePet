@@ -1,5 +1,5 @@
+import { NavLink } from 'react-router-dom';
 import Pet from '../../../Images/pet-si.png'
-//import { NavLink } from 'react-router-dom';
 import './Browser.css';
 
 export function Browser() {
@@ -7,16 +7,16 @@ export function Browser() {
         <header>
             <img src={Pet} alt="pet" className="logo"></img>
             <input id="check" type="checkbox"></input>
-            <label for="check">
-                <div class="hamburguer"></div>
+            <label htmlFor="check">
+                <div className="hamburguer"></div>
             </label>
             <ul>
-                <li><a href="/">Inicio</a></li>
-                <li><a href="/">Equipe</a></li>
-                <li><a href="/">Projetos</a></li>
-                <li><a href="/">Blog</a></li>
-                <li><a href="/">Contato</a></li>
-                <li><a href="/sobre">Sobre</a></li>
+                <li><NavLink className="nav" to="/">Inicio</NavLink></li>
+                <li><NavLink className="nav" to="/">Equipe</NavLink></li>
+                <li><NavLink className="nav" to="/">Projetos</NavLink></li>
+                <li><NavLink className="nav" to="/">Blog</NavLink></li>
+                <li><NavLink className="nav" to="/">Contato</NavLink></li>
+                <li><NavLink className="nav" to="/sobre">Sobre</NavLink></li>
             </ul>
         </header>
     )

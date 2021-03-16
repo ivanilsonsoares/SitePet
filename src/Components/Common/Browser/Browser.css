@@ -93,7 +93,7 @@ header.sticky {
 }
 
 header.sticky .logo,
-header.sticky ul li a {
+header.sticky ul li .nav{
   color: #fff;
 }
 header.sticky .hamburguer:before,
@@ -111,7 +111,7 @@ header ul li {
 	list-style: none;
 }
 
-header ul li a {
+header ul li .nav{
 	margin: 0 15px;
 	text-decoration: none;
 	text-transform: uppercase;
