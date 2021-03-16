@@ -1,0 +1,39 @@
+.card{
+    width:45vw;
+    height: 40vh;
+    margin: 10px;
+    background-color: #0B3C4C;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.card .line1{
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card .line1 > img{
+    width: 20vw;
+    height: 20vh;
+}
+
+.card .line1 .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.card .line2{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card .line2 .description{
+    margin: 10px;
+    text-align: center;
+}
+

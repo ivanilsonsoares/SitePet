@@ -1,0 +1,9 @@
+.card{
+    width:45vw;
+    height: 40vh;
+    margin: 10px;
+    background-color: #0B3C4C;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}

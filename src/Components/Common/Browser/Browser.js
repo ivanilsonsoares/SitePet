@@ -12,8 +12,8 @@ export function Browser() {
             </label>
             <ul>
                 <li><a href="/">Inicio</a></li>
-                <li><a href="/">Equipe</a></li>
-                <li><a href="/">Projetos</a></li>
+                <li><a href="/team">Equipe</a></li>
+                <li><a href="/projects">Projetos</a></li>
                 <li><a href="/">Blog</a></li>
                 <li><a href="/">Contato</a></li>
                 <li><a href="/sobre">Sobre</a></li>
