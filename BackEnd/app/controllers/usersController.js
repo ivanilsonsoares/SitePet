@@ -27,5 +27,5 @@ module.exports.inserirUsuario = function (req, res) {
 }
 
 module.exports.removerUsuario = function (req, res) {
-   
+    
 }
