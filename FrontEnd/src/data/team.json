@@ -1,7 +1,8 @@
 [
-    {"name":"Victor Souza","semester":"6º", "field":"Programação WEB", "urlImg":"../Images/equipe1.jpg"},
-    {"name":"Ivanilson Soares","semester":"6º", "field":"Programação WEB","urlImg":""},
+    {"name":"Victor Souza","semester":"6º", "field":"Programação WEB", "urlImg":"https://cdn.pixabay.com/photo/2016/11/14/17/39/person-1824147_960_720.png"},
+    {"name":"Ivanilson Soares","semester":"6º", "field":"Programação WEB","urlImg":"http://localhost:3000/FrontEnd/src/Images/equipe1.jpg"},
     {"name":"Edval Júnior","semester":"8º", "field":"Ciência de Dados","urlImg":""}
 ]
+
 
 
