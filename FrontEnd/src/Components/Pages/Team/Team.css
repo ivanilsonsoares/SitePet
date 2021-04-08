@@ -33,3 +33,8 @@
     flex-wrap: wrap;
     
 }
+.card .img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 6%;
+}
