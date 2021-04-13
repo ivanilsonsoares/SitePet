@@ -1,0 +1,40 @@
+.banner{  
+    width: 100%;
+	height: calc(100vh - 200px);
+	background: url(https://images.unsplash.com/photo-1611619899256-5e61d4c46df9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Montserrat;
+}
+
+.banner .title{
+    color:#FFDE08;
+    font-size: 60px;
+    padding: 10px;
+}
+
+.banner .subtitle{
+    color: #E7EEF0;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.container{
+    padding: 10px;
+    top:calc(100vh - 200px);
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.card .img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 6%;
+}

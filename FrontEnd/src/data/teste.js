@@ -1,0 +1,1 @@
+import imagen from "../Images/equipe1.jpg"
