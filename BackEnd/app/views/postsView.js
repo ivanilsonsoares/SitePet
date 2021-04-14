@@ -3,6 +3,8 @@ function render(post){
         id: post._id,
         title: post.title,
         content: post.content,
+        image: post.image,
+        image_url: post.image_url
     }
 }
 module.exports.render = render;
