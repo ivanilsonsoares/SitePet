@@ -1,9 +1,18 @@
 const mongoose = require('mongoose');
 module.exports = function () {
     const schema = mongoose.Schema({
-        title: String,
-        content: String,
-        image: String
+        title:{
+          type: String,
+          required: true  
+        },
+        content:{
+            type: String,
+            required: true  
+          },
+        image: {
+            type: String,
+            required: true  
+          }
     }, {
         toJSON: {
             virtuals: true
