@@ -11,15 +11,20 @@ module.exports.listarPost = function(req, res){
     });
 }
 
-module.exports.criarPost = function(req, res){
-    let post = req.body;
-    let promise = postModels.create(post);
+module.exports.criarPost =  function(req, res){
+    const {title, content} = req.body;
+    const { filename } = req.file;
+    const promise =  postModels.create({
+        title: title,
+        content: content,
+        image: filename
+    });
 
-    promise.then(function(post){
-        res.status(201).json(postViews.render(post));
-    }).catch(function(error){
-        res.status(400).json({message:"Aconteceu algo de errado"})
-    })
+     promise.then(function(post){
+         res.status(201).json(postViews.render(post));
+     }).catch(function(error){
+         res.status(400).json({message:"Aconteceu algo de errado"})
+     })
 }
 
 module.exports.deletePost = function(req, res){

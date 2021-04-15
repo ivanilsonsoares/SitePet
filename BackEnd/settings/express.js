@@ -1,6 +1,8 @@
 const express = require('express');
 const userRoutes = require("../app/routes/usersRoutes");
 const postRoutes = require("../app/routes/postRoutes");
+const teamRoutes = require("../app/routes/teamRoutes");
+const projectsRoutes = require("../app/routes/projectsRoutes");
 const bodyParser = require('body-parser');
  
 module.exports = function(){
@@ -11,5 +13,8 @@ module.exports = function(){
     app.use(express.static('./public'));
     userRoutes(app);
     postRoutes(app);
+    teamRoutes(app);
+    projectsRoutes(app);
+
     return app;
 }
