@@ -18,16 +18,18 @@ export function Projects(){
     return(
         <div>
             <Browser></Browser>
+            
             <div className="banner">
                 <span className="title">Projetos</span>
                 <span className="subtitle">Nossos projetos são baseados nos nossos pilares</span>
             </div>
 
-            <div className="container">
+            <div className="cards">
                 {montarCards}
             </div>
 
             <Footer></Footer>
+            
         </div>
     )
 }

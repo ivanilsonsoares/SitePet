@@ -23,18 +23,11 @@
     font-size: 20px;
 }
 
-.container{
+.card{
     padding: 10px;
     top:calc(100vh - 200px);
-    height: 100vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    
-}
-.card .img{
-    width: 30%;
-    margin-top: 10px;
-    margin-left: 6%;
 }

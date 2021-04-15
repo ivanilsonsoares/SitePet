@@ -10,7 +10,7 @@ export function Team(){
 
     let montarCards = team.map(
         (team)=>(
-            <CardTeams name={team.name} semester={team.semester} field={team.field} urlImg={team.urlImg}/>
+            <CardTeams name={team.name} ingress={team.ingress} field={team.field} urlImg={team.urlImg}/>
         )
     )
 
@@ -23,7 +23,7 @@ export function Team(){
                 <span className="subtitle">Nossa equipe de Bolsistas</span>
             </div>
 
-            <div className="container">
+            <div className="card">
                 {montarCards}
             </div>
 
