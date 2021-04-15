@@ -2,7 +2,7 @@ import "./CardProjects.css"
 
 export function CardProjects({name,category,description,urlImg}){
     return(
-        <div className="card">
+        <div className="card-project">
             <div className="line1">
                 <img src={urlImg} alt="img"></img>
                 <div className="right">

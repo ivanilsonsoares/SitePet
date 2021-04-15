@@ -1,1 +1,1 @@
-import imagen from "../Images/equipe1.jpg"
+import imagem from "../Images/equipe1.jpg"

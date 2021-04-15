@@ -1,16 +1,16 @@
 import "./CardTeams.css"
 //import vitinho from '../../../Images/equipe1.jpg'
-export function CardTeams({name,semester,field,urlImg}){
+export function CardTeams({name,ingress,field,urlImg}){
 
     return(
 
-        <div className="card">
+        <div className="card-team">
             <img src={urlImg} className="img" alt="imagens"></img>
             
-            <div className="right">
-                <span>{name}</span>
-                <span>{semester}</span>
-                <span>{field}</span>
+            <div className="info">
+                <span>Nome: {name}</span>
+                <span>Ingressou: {ingress}</span>
+                <span>Interesse: {field}</span>
             </div>
         </div>
     )
