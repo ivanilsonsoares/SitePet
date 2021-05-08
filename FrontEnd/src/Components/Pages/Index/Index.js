@@ -48,7 +48,9 @@ export function Index() {
                 </div>
                 <div className="projects-info">
                     <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis orci, sed sit massa ultricies nec. Consectetur sed nulla.
+                    A Portaria 976, do Ministério da Educação, de 27 de julho de 2010, 
+                    explica que o Programa de Educação Tutorial (PET) deve ser orientado pelo 
+                    princípio da indissociabilidade entre ensino, pesquisa e extensão. 
                     </p>
                     <NavLink  className="fa button-projects" to="/projects">Ver tudo &#xf061;</NavLink>
                 </div>
