@@ -25,17 +25,18 @@ export function Index() {
                 <div className="three-pillars">
                     <h1 className="fa">&#xf02d;</h1>
                     <h2>Ensino</h2>
-                    <p>É o pilar que estimula os membros a ensinar as coisas</p>
+                    <p>A Portaria 976, do Ministério da Educação, de 27 de julho de 2010, explica que o Programa de Educação Tutorial (PET) deve desenvolver atividades de Ensino em suas ações. Nesse sentido, o grupo PET-SI busca realizar atividades deste pilar, onde os bolsistas possam repassar seu conhecimento à comunidade acadêmica, fazendo com que os mesmos tenham mais experiência em atividades de docência.</p>
                 </div>
                 <div className="three-pillars">
                     <h1 className="fa">&#xf002;</h1>
                     <h2>Pesquisa</h2>
-                    <p>É o pilar que estimula os membros a pesquisar as coisas</p>
+                    <p>A Portaria 976, do Ministério da Educação, de 27 de julho de 2010, explica que o Programa de Educação Tutorial (PET) deve desenvolver atividades de Pesquisa em suas ações. Nesse sentido, o grupo PET-SI busca realizar atividades deste pilar, onde os bolsistas possam ler e escrever trabalhos científicos, proporcionando assim, um maior conhecimento no assunto.
+</p>
                 </div>
                 <div className="three-pillars">
                     <h1 className="fa">&#xf19c;</h1>
                     <h2>Extansão</h2>
-                    <p>É o pilar que estimula os membros a ensinar as coisas</p>
+                    <p>A Portaria 976, do Ministério da Educação, de 27 de julho de 2010, explica que o Programa de Educação Tutorial (PET) deve desenvolver atividades de Extensão em suas ações. Nesse sentido, o grupo PET-SI busca realizar atividades deste pilar, onde são realizados projetos para a comunidade de fora da universidade, fazendo com que a UFC tenha maior contato e parceria com essa comunidade.</p>
                 </div>
             </div>
 
