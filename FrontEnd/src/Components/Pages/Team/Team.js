@@ -10,7 +10,7 @@ export function Team(){
 
     let montarCards = team.map(
         (team)=>(
-            <CardTeams name={team.name} ingress={team.ingress} field={team.field} urlImg={team.urlImg}/>
+            <CardTeams name={team.name} ingress={team.semester} field={team.field} urlImg={team.urlImg}/>
         )
     )
 
