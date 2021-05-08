@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import Pet from '../../../Images/pet-si.png'
+import Pet from '../../../assets/pet-si.png'
 import './Browser.css';
 
 export function Browser() {

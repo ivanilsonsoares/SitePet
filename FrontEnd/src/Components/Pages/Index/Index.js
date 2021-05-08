@@ -1,8 +1,8 @@
 import { Browser } from "../../Common/Browser/Browser";
 import { Footer } from "../../Common/Footer/Footer";
-import Projects from '../../../Images/splash.png'
-import Ufc from '../../../Images/ufc-preto.png'
-import Pet from '../../../Images/pet-preto.png'
+import Projects from '../../../assets/splash.png'
+import Ufc from '../../../assets/ufc-preto.png'
+import Pet from '../../../assets/pet-preto.png'
 import './Index.css'
 import { NavLink } from "react-router-dom";
 

@@ -1,5 +1,5 @@
-import Ufc from '../../../Images/ufc.png'
-import Pet from '../../../Images/pet-si.png'
+import Ufc from '../../../assets/ufc.png'
+import Pet from '../../../assets/pet-si.png'
 
 import './Footer.css'
 export function Footer(){
