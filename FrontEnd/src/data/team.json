@@ -15,8 +15,70 @@
         "name":"Edval Júnior",
         "semester":"8º",
         "field":"Ciência de Dados",
-        "urlImg":"http://localhost:8000/files/1bdf5a249ae1fb49bbd744d2decbdff9-DeOlhoNoDesconto.png"
+        "urlImg":"https://raw.githubusercontent.com/ivanilsonsoares/petsi-frontend/master/src/assets/Equipe/edval.png"
+    },
+    {
+        "name":"Camilo Lima",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/camilo.png?raw=true"
+    },
+    {
+        "name":"Júnior Costa",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/junior.jpg?raw=true"
+    },
+    {
+        "name":"Ana Kely",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/junior.jpg?raw=true"
+    },
+    {
+        "name":"Evenilson Liandro",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/even.png?raw=true"
+    },
+    {
+        "name":"Luanderson Evangelista",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/luan.png?raw=true"
+    },
+    {
+        "name":"Jean Pantoja",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/jean.png?raw=true"
+    },
+    {
+        "name":"Victor Pinheiro",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/padre.png?raw=true"
+    },
+    {
+        "name":"Robson Silva",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/robson.png?raw=true"
+    },
+    {
+        "name":"Ronier Lima",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/ronier.png?raw=true"
+    },
+    {
+        "name":"Wladimir",
+        "semester":"8º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/wlad.png?raw=true"
     }
+
+    
 ]
 
 
