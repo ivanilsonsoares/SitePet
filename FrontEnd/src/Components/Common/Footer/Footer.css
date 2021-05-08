@@ -46,20 +46,25 @@
     padding: 1px;
 }
 
-.menu .Net-Work-social{
+.menu .Net-Work-social a {
     color: white;
-    padding: 1px;
+    padding: 2px;
+    
     
 }
 
-.menu .Net-Work-social .fa{
-    padding: 5px; 
+.menu .Net-Work-social a{
+    text-decoration: none;
+}
+
+.menu .Net-Work-social a .fa{
+    padding: 6px; 
     cursor: pointer;
     
 }
 
 .menu .Net-Work-social .fa:hover{
-    color: slateblue;
+    color: #1199C8;
 }
 
 @media screen and (max-width: 820px){

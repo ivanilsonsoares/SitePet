@@ -1,8 +1,8 @@
 import { NavLink } from 'react-router-dom';
-import Pet from '../../../assets/pet-si.png'
-import './Browser.css';
+import Pet from '../../../../assets/pet-si.png'
+import './AdmBrowser.css';
 
-export function Browser() {
+export function AdmBrowser() {
     return (
         <header>
             <img src={Pet} alt="pet" className="logo"></img>
@@ -14,8 +14,8 @@ export function Browser() {
                 <li><NavLink className="nav" to="/">Inicio</NavLink></li>
                 <li><NavLink className="nav" to="/team">Equipe</NavLink></li>
                 <li><NavLink className="nav" to="/projects">Projetos</NavLink></li>
-                {/* <li><NavLink className="nav" to="/">Blog</NavLink></li> */}
-                <li><NavLink className="nav" to="/contacts">Contato</NavLink></li>
+                <li><NavLink className="nav" to="/">Blog</NavLink></li>
+                <li><NavLink className="nav" to="/">Contato</NavLink></li>
                 <li><NavLink className="nav" to="/sobre">Sobre</NavLink></li>
             </ul>
         </header>

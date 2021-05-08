@@ -1,8 +1,8 @@
 import { Browser } from "../../Common/Browser/Browser";
 import { Footer } from "../../Common/Footer/Footer";
-import Projects from '../../../Images/splash.png'
-import Ufc from '../../../Images/ufc-preto.png'
-import Pet from '../../../Images/pet-preto.png'
+import Projects from '../../../assets/splash.png'
+import Ufc from '../../../assets/ufc-preto.png'
+import Pet from '../../../assets/pet-preto.png'
 import './Index.css'
 import { NavLink } from "react-router-dom";
 
@@ -48,7 +48,9 @@ export function Index() {
                 </div>
                 <div className="projects-info">
                     <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lobortis orci, sed sit massa ultricies nec. Consectetur sed nulla.
+                    A Portaria 976, do Ministério da Educação, de 27 de julho de 2010, 
+                    explica que o Programa de Educação Tutorial (PET) deve ser orientado pelo 
+                    princípio da indissociabilidade entre ensino, pesquisa e extensão. 
                     </p>
                     <NavLink  className="fa button-projects" to="/projects">Ver tudo &#xf061;</NavLink>
                 </div>
@@ -67,7 +69,7 @@ export function Index() {
                         Se você tiver quaisquer perguntas, comentários ou sugestões,
                         por favor entre em contato conosco.
                 </h1>
-                    <NavLink className="fa" to="/">&#xf0e0; Enviar uma mensagem</NavLink>
+                    <a className="fa" href="https://discord.gg/vfDzqaKKpS">&#xf0e0; Enviar uma mensagem</a>
                 </div>
             </div>
             <Footer></Footer>

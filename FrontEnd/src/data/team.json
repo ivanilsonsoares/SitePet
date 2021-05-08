@@ -1,7 +1,84 @@
 [
-    {"name":"Victor Souza","semester":"6º", "field":"Programação WEB", "urlImg":"https://images.unsplash.com/photo-1571249104671-f5537fb3e137?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"},
-    {"name":"Ivanilson Soares","semester":"6º", "field":"Programação WEB","urlImg":"https://images.unsplash.com/photo-1571249104671-f5537fb3e137?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"},
-    {"name":"Edval Júnior","semester":"8º", "field":"Ciência de Dados","urlImg":"http://localhost:8000/files/1bdf5a249ae1fb49bbd744d2decbdff9-DeOlhoNoDesconto.png"}
+    {
+        "name":"Victor Souza",
+        "semester":"3º",
+        "field":"Programação WEB",
+        "urlImg":"https://raw.githubusercontent.com/ivanilsonsoares/petsi-frontend/master/src/assets/Equipe/victor.png"
+    },
+    {
+        "name":"Ivanilson Soares",
+        "semester":"3º",
+        "field":"Programação WEB",
+        "urlImg":"https://raw.githubusercontent.com/ivanilsonsoares/SitePet/main/FrontEnd/src/assets/ivan.jpg"
+    },
+    {
+        "name":"Edval Júnior",
+        "semester":"5º",
+        "field":"Ciência de Dados",
+        "urlImg":"https://raw.githubusercontent.com/ivanilsonsoares/petsi-frontend/master/src/assets/Equipe/edval.png"
+    },
+    {
+        "name":"Camilo Lima",
+        "semester":"3º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/camilo.png?raw=true"
+    },
+    {
+        "name":"Júnior Costa",
+        "semester":"3º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/junior.jpg?raw=true"
+    },
+    {
+        "name":"Ana Kely",
+        "semester":"3º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/junior.jpg?raw=true"
+    },
+    {
+        "name":"Evenilson Liandro",
+        "semester":"3º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/even.png?raw=true"
+    },
+    {
+        "name":"Luanderson Evangelista",
+        "semester":"5º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/luan.png?raw=true"
+    },
+    {
+        "name":"Jean Pantoja",
+        "semester":"1º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/jean.png?raw=true"
+    },
+    {
+        "name":"Victor Pinheiro",
+        "semester":"5º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/padre.png?raw=true"
+    },
+    {
+        "name":"Robson Silva",
+        "semester":"1º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/robson.png?raw=true"
+    },
+    {
+        "name":"Ronier Lima",
+        "semester":"5º",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/ronier.png?raw=true"
+    },
+    {
+        "name":"Wladimir",
+        "semester":"2020",
+        "field":"-",
+        "urlImg":"https://github.com/ivanilsonsoares/petsi-frontend/blob/master/src/assets/Equipe/wlad.png?raw=true"
+    }
+
+    
 ]
 
 

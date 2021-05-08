@@ -1,6 +1,26 @@
 [
-    {"name":"WTISC", "category":"Ensino e Extensão", "description":"Workshop com vários cursos e palestras de TI.","urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"},
-    {"name":"Letramento Digital", "category":"Ensino e Extensão", "description":"Curso de ferramentas digitais ofertado aos professores do ensino fundamental.","urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"},
-    {"name":"WTISC", "category":"Ensino e Extensão", "description":"Workshop com vários cursos e palestras de TI.","urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"},
-    {"name":"WTISC", "category":"Ensino e Extensão", "description":"Workshop com vários cursos e palestras de TI.","urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"}
+    {
+        "name":"WTISC",
+        "category":"Ensino e Extensão",
+        "description":"Workshop com vários cursos e palestras de TI.",
+        "urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"
+    },
+    {
+        "name":"Letramento Digital",
+        "category":"Ensino e Extensão",
+        "description":"Curso de ferramentas digitais ofertado aos professores do ensino fundamental.",
+        "urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"
+    },
+    {
+        "name":"WTISC",
+        "category":"Ensino e Extensão",
+        "description":"Workshop com vários cursos e palestras de TI.",
+        "urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"
+    },
+    {
+        "name":"WTISC",
+        "category":"Ensino e Extensão",
+        "description":"Workshop com vários cursos e palestras de TI.",
+        "urlImg":"https://raw.githubusercontent.com/petufc/manualdocalouro/main/quixada.jpg"
+    }
 ]

@@ -8,7 +8,11 @@ export function CardTeams({name,ingress,field,urlImg}){
             <img src={urlImg} className="img" alt="imagens"></img>
             
             <div className="info">
+<<<<<<< HEAD
                 <span>Nome: {name}</span>
+=======
+                <span>{name}</span>
+>>>>>>> main
                 <span>Ingressou: {ingress}</span>
                 <span>Interesse: {field}</span>
             </div>
