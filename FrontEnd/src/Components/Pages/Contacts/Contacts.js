@@ -16,17 +16,17 @@ export function Contacts() {
             <h1 className="title">Princiapais contatos</h1>
             <div className="content">
 
-                <div className="three-pillars">
+                <div className="three-pillars" style={{height:'250px'}}>
                     <h1 className="fa">&#xf2b6;</h1>
                     <h2>Email</h2>
                     <p>petsiqxd@ufc.br</p>
                 </div>
-                <div className="three-pillars">
+                <div className="three-pillars" style={{height:'250px'}}>
                     <h1 className="fa">&#xf09a;</h1>
                     <h2>Facebook</h2>
                     <p>petsiufc</p>
                 </div>
-                <div className="three-pillars">
+                <div className="three-pillars" style={{height:'250px'}}>
                     <h1 className="fa">&#xf16d;</h1>
                     <h2>Instagram</h2>
                     <p>@petsi.ufc</p>
