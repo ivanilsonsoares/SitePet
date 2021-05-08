@@ -67,7 +67,7 @@ export function Index() {
                         Se você tiver quaisquer perguntas, comentários ou sugestões,
                         por favor entre em contato conosco.
                 </h1>
-                    <NavLink className="fa" to="/">&#xf0e0; Enviar uma mensagem</NavLink>
+                    <a className="fa" href="https://discord.gg/vfDzqaKKpS">&#xf0e0; Enviar uma mensagem</a>
                 </div>
             </div>
             <Footer></Footer>
