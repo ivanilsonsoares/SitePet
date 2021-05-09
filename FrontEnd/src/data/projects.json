@@ -1,26 +1,92 @@
 [
     {
+        "name":"Rodas de Conversas",
+        "category":"Ensino",
+        "description":"Nesta atividade, convidamos egressos de cursos da área de Tecnologia da Informação para discutir diversos temas entre eles: mercado de trabalho, carreira acadêmica, oportunidade de trabalhos no exterior entre outros temas."
+    },
+
+    {
+        "name":"Grupo de Estudos das Disciplinas",
+        "category":"Ensino",
+        "description":"O estudo em grupo é um modo produtivo de potencializar o esforço para o aprendizado. Durante o semestre, os alunos organizam grupos de estudos para facilitar o aprendizado nas disciplinas consideradas mais difíceis e/ou desenvolver atividades relacionadas com a formação complementar dos discentes."
+    },
+    {
+        "name":"Acompanhamento de Calouros",
+        "category":"Ensino",
+        "description":"A atividade tem início nos primeiros dias do primeiro semestre letivo de cada ano, onde acontece um momento de acolhimento com a turma ingressante do curso de Sistemas de Informação, apresentando outras atividades realizadas pelo grupo PET-SI e também, o motivo pelo qual estamos realizando a presente atividade."
+    },
+    {
+        "name":"Treinamento para a OBI",
+        "category":"Ensino",
+        "description":"O Campus da UFC em Quixadá e seus seis cursos voltados para a área da Tecnologia da Informação (TI) tem um potencial enorme em revelar talentos para as competições de programação A atividade visa formar um grupo preparatório para a OBI e incentivar os alunos a participarem de futuras competições de programação, tais como a maratona de programação."
+    },
+    {
+        "name":"Sertão Tec Podcast",
+        "category":"Ensino",
+        "description":"O Sertão Tec Podcast é um projeto a ser realizado ao vivo e de forma interativa com os alunos. Contará com entrevistas que abordam assuntos pertinentes a sua caminhada acadêmica e futura vida profissional ou trazendo temas como: tecnologia, seus avanços e impactos no futuro do curso e profissões oriundas dele."
+    },
+    {
+        "name":"Curso de Diagramação",
+        "category":"Ensino",
+        "description":"O curso de Diagramação será voltado para o estudo de edição de imagens para que os alunos possam ter uma noção de como algumas imagens podem ser editadas para serem adicionadas em seus projetos."
+    },
+    {
+        "name":"Curso sobre Canvas",
+        "category":"Ensino",
+        "description":"O Canvas é um elemento da linguagem HTML5 designado para delimitar a área para a renderização dinâmica de gráficos. Essa ferramenta permite que o programador desenvolva páginas com um maior nível de interatividade."
+    },
+    {
+        "name":"ComPETção Acadêmica",
+        "category":"Ensino",
+        "description":"ComPETção acadêmica é um projeto voltado para elaboração de competições de perguntas e respostas entre equipes, visando abordar diversos temas sobre a área de T.I em um ambiente dinâmico e interativo."
+    },
+
+
+
+
+    {
+        "name":"Seminários Internos",
+        "category":"Pesquisa",
+        "description":"Nesta atividade, os bolsistas realizam a leitura e o estudo de artigos científicos da área da computação. Em seguida, os artigos escolhidos são apresentados nas reuniões semanais."
+    },
+    {
+        "name":"Seminários de TCC",
+        "category":"Pesquisa",
+        "description":"Nesta atividade, o grupo PET-SI convida os professores para apresentar temas de pesquisa que podem ser desenvolvidas em Trabalho de Conclusão de Curso (TCC). Com essa atividade, esperamos dar um norte para esses alunos através da apresentação dos possíveis temas de pesquisa que podem ser realizados no TCC."
+    },
+    {
+        "name":"Iniciação Científica",
+        "category":"Pesquisa",
+        "description":"O PET com o intuito de desenvolver a capacidade de pesquisa de seus integrantes, incentivando-os a seguir a carreira acadêmica através de algum tema por eles estudado, desenvolverá o incentivo a produção de pesquisas científicas relacionadas às áreas que o curso de Sistemas de Informação oferece, bem como o ingresso na pós-graduação."
+    },
+
+
+
+
+    {
         "name":"WTISC",
-        "category":"Ensino e Extensão",
-        "description":"Workshop com vários cursos e palestras de TI.",
-        "urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"
+        "category":"Extensão",
+        "description":"Observando o amplo mercado e a infinidade de temas na área de Tecnologia da Informação, o PET, organiza o Workshop de Tecnologia da Informação do Sertão Central, onde os estudantes terão a oportunidade de apresentar seus trabalhos, conhecer as diversas áreas de pesquisa na área de TI e aprender novas ferramentas e tecnologias de desenvolvimento."
     },
     {
         "name":"Letramento Digital",
-        "category":"Ensino e Extensão",
-        "description":"Curso de ferramentas digitais ofertado aos professores do ensino fundamental.",
-        "urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"
+        "category":"Extensão",
+        "description":"Devido a dificuldade de muitas pessoas terem acesso e conhecerem os benefícios da tecnologia da informação e suas aplicações, criamos o projeto em questão. O Letramento Digital visa o ensino sobre tecnologia de informação digital para as pessoas que não possuem intimidade com a mesma."
     },
     {
-        "name":"WTISC",
-        "category":"Ensino e Extensão",
-        "description":"Workshop com vários cursos e palestras de TI.",
-        "urlImg":"https://savilasaraiva.github.io/wtisc2019/img/Material%20WTISC%202019-15.png"
+        "name":"Minicurso de POO para EEEPs",
+        "category":"Extensão",
+        "description":"Vendo a necessidade de estabelecer laços com possíveis futuros alunos do nosso campus, o grupo PET-SI visa, com essa atividade, promover minicursos práticos de Programação Orientada a Objetos (POO) voltado para os alunos do curso técnico de Informática de Escola Estadual de Ensino Profissional (EEEP), focando principalmente nas turmas de 3º ano."
     },
     {
-        "name":"WTISC",
-        "category":"Ensino e Extensão",
-        "description":"Workshop com vários cursos e palestras de TI.",
-        "urlImg":"https://raw.githubusercontent.com/petufc/manualdocalouro/main/quixada.jpg"
+        "name":"Feira das Profissões de TI",
+        "category":"Extensão",
+        "description":"A escolha de qual profissão seguir já é difícil ainda mais quando a profissão, no caso, as profissões/faculdades de TI são tão semelhantes, tendo apenas algumas peculiaridades. Pensando nisso, propomos a realização de uma atividade intitulada “Feiras das profissões de TI” visando demonstrar algumas das diversas profissões que se pode seguir ao finalizar uma graduação de TI."
+    },
+    {
+        "name":"Comunicação Externa PET",
+        "category":"Extensão",
+        "description":"Uma das maneiras ágeis de divulgar as atividades que o PET realiza, bem como a comunicação entre o público em geral com os membros do PET se dá através das redes sociais e de um portal de comunicação. Com isso é necessário que haja um gerenciamento para monitorar e constantemente atualizar os perfis que foram feitos em nome do grupo PET."
     }
+
 ]
