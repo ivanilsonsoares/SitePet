@@ -6,38 +6,17 @@
     color: white;
     display: flex;
     flex-direction: column;
-}
-
-.card-project .line1{
-    height: 50%;
-    display: flex;
-    justify-content: space-around;
-}
-
-.card-project .line1 > img{
-    width: 20vw;
-    height: 20vh;
-}
-
-.card-project .line1 .right{
-    display: flex;
-    flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
+    text-align: center;
+    padding: 5px;
 }
 
-.card-project .line1 .right .name{
+.card-project .name{
     font-size: 30px;
 }
 
-.card-project .line2{
-    height: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.card-project .line2 .description{
-    margin: 10px;
-    text-align: center;
+.card-project .category{
+    font-size: 18px;
 }
 

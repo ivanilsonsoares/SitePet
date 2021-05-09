@@ -10,7 +10,7 @@ export function Projects(){
 
     let montarCards = projects.map(
         (project)=>(
-            <CardProjects name={project.name} category={project.category} description={project.description} urlImg={project.urlImg}/>
+            <CardProjects name={project.name} category={project.category} description={project.description}/>
         )
     )
 
